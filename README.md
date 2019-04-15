@@ -11,4 +11,3 @@
 ![](https://github.com/caoxuCarlos/A-Fitness-Guide-for-College-Students/blob/master/images/copyright.png?raw=true)
 
 本书版权协议为[CC BY-NC 4.0 license](http://creativecommons.org/licenses/by-nc/4.0/)。
-
