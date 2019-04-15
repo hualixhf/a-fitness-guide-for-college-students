@@ -22,4 +22,4 @@
 
 本书版权协议为[CC BY-NC 4.0 license](http://creativecommons.org/licenses/by-nc-nd/4.0/)。
 
-![](https://github.com/caoxuCarlos/A-Fitness-Guide-for-College-Students/blob/master/images/copyright01.png?raw=true)
+![](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/images/copyright01.png?raw=true)
