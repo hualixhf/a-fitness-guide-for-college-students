@@ -1,6 +1,6 @@
 # 联系
 
-本书完全开源于[github(点击访问页面)](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students)
+本书完全开源于[github(点击访问页面)](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students)，有兴趣的朋友们可以帮忙校对。
 
 
 
