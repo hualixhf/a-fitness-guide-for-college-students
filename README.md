@@ -12,6 +12,8 @@
 
 毕竟这本书的本意就是帮助健身房的新手**快速入门**。
 
+**在华东理工大学奉贤校区大活健身房的同学请结合器械上的二维码（developing）使用**。
+
 有一个70分的答案以后就马上开始实践、反馈、进步、迭代，比等一个90分的答案出来再行动要好得多。  
 
 **目录**
@@ -20,6 +22,10 @@
 >* [MAKE1(最少可执行知识)](https://github.com/caoxuCarlos/A-Fitness-Guide-for-College-Students/blob/master/markdowns/Part1-MAKE.md)
 >* [MAKE2(最少可执行知识)](https://github.com/caoxuCarlos/A-Fitness-Guide-for-College-Students/blob/master/markdowns/Part1-MAKE(2).md)
 >* 待续......
+
+欢迎感兴趣的朋友们通过 Pull Request 来帮本书校对。
+
+不熟悉github的朋友可以通过邮箱（cx@caoxu.cc）与我联系。
 
 本书版权协议为[CC BY-NC 4.0 license](http://creativecommons.org/licenses/by-nc-nd/4.0/)。
 
