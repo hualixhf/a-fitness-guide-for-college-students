@@ -12,7 +12,7 @@ pass
 
 ## 平板卧推
 
-pass
+![](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/images/action/pectoralis-major/bench-press.gif?raw=true)
 
 挺胸, 沉肩, 握距平衡, 直上直下
 
@@ -20,7 +20,7 @@ pass
 
 **顶峰收缩**, 也就是在肌肉收缩到顶点的时候停顿1~2秒钟, 不管做什么动作, 千万不要忘记这件事情, 把这件事情做好了, 和把英语的音标读准 一样重要.
 
-宽握练胸, 抓得越窄, 肱三头肌pass的发力就会越明显, 我们健身的原则是**不借力, 少借力**, 所以练胸的时候, 我们不希望肱三头肌掺和进来, 于是在练胸的时候, 要用宽握距, 而不是窄握距.
+宽握练胸, 抓得越窄, [肱三头肌](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/images/triceps.jpg?raw=true)的发力就会越明显, 我们健身的原则是**不借力, 少借力**, 所以练胸的时候, 我们不希望肱三头肌掺和进来, 于是在练胸的时候, 要用宽握距, 而不是窄握距.
 
 对于呼吸这件事情, 所有的动作都有一个共同的原则:
 
@@ -28,17 +28,19 @@ pass
 
 所以, 卧推发力的过程是把杠铃从胸口推高的过程, 这个过程你的**肌细胞要进行呼吸作用, 需要大量的氧气**, 所以在 "放" 杠铃的这个过程, 就要吸气, 让你的血液在流经肺泡的时候能获得尽可能多的氧.
 
-pass a picture
+![](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/images/oxygen.png?raw=true)
 
 ## 斜板哑铃推举
 
-pass
+![](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/images/action/pectoralis-major/dumbbell-press.gif?raw=true)
 
 身体躺在凳子上, 双脚自然踩到地面上, 稳定好身体.
 
 平板和地面的夹角大概是30°, 角度太大 (比如60°) 的时候, 三角肌前束pass会参加发力, 再一次, 我们的原则是**不借力, 少借力**, 不管做什么动作, 一定要把这句话记牢, 直到在大脑皮层上形成一个 "深深的沟回". 
 
 同样的, 慢放, 快收缩, 停顿.
+
+![](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/images/action/pectoralis-major/dumbbell-press2.gif?raw=true)
 
 ## 相信我, 你并不孤独
 
