@@ -1,6 +1,6 @@
 # 肩
 
-pass a picture
+![](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/images/deltoid.png?raw=true)
 
 三角肌分为前束, 中束, 和后束.
 
@@ -10,7 +10,7 @@ pass a picture
 
 ## 侧平举 
 
-pass
+![](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/images/action/deltoid/%E4%BE%A7%E5%B9%B3%E4%B8%BE.gif?raw=true)
 
 关于怎么呼吸、什么时候要慢、什么时候要快，之前连胸的时候已经说得很详细了, 我在介绍其他动作的时候就不啰嗦了. 但是对于还没有在大脑皮层上 "刻出一个深深的沟回"的你, 以后在做**所有动作**之前, 都在心里把这几个字念一遍, 念出声来也无妨 ---- **慢放, 快收缩,停顿**.
 
@@ -24,7 +24,7 @@ pass
 
 ## 坐姿颈后推举
 
-pass
+![](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/images/action/deltoid/%E5%9D%90%E5%A7%BF%E9%A2%88%E5%90%8E%E6%8E%A8%E4%B8%BE.gif?raw=true)
 
 直腰, 坐稳
 
