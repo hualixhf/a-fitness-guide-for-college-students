@@ -2,6 +2,8 @@
 
 腹肌可以粗略地分为腹直肌和腹外斜肌.
 
+![](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/images/abs.jpeg?raw=true)
+
 有女孩子担心自己练出八块腹肌太吓人, 还记得我们之前在讲练腿时候的睾酮激素吗? 这个激素在男性体内的含量大约是在女性体内的七到八倍, 所以女孩子们不用担心自己不小心把肌肉练得太大了不好看, 就是真的想练大也没那么容易啊......
 
 举个不是很严谨的例子, 我练胸肌要推 70kg 的重量, 如果一个女生要 "不小心" 练得和我一样大, 难倒要推 70*8=560(kg) 吗?
@@ -18,7 +20,7 @@
 
 下腹脂肪多是很多人的噩梦, 这个动作就练下腹.
 
-pass
+![](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/images/action/abs/%E4%BB%B0%E5%8D%A7%E4%B8%BE%E8%85%BF.gif?raw=true)
 
 腿伸直, 只要抬到和地面平行就好, 别觉得轻松哦, 这个动作是有要求的:
 
@@ -32,9 +34,9 @@ pass
 
 ## 负重仰卧起坐
 
-pass
+![](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/images/action/abs/%E4%BB%B0%E5%8D%A7%E8%B5%B7%E5%9D%90.gif?raw=true)
 
 下降的时候, 身体和地面平行就可以了, 但是放到底要**停顿一下**, 确保自己下次不是靠借力起来的.
 
-双手要放到胸口, 放到颈后也 ok, 关键是要把两只手管好, 不要通过手臂的摆动把身身体带起来, 我们要做到**不借力, 少借力** 
+双手要放到胸口, 可以抱一个哑铃片负重, 放到颈后也 ok, 关键是要把两只手管好, 不要通过手臂的摆动把身身体带起来, 我们要做到**不借力, 少借力** 
 
