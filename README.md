@@ -2,7 +2,7 @@
 
 > Start your workout without being  confused.
 
-# 华理健身入门手册
+# 大学生健身入门
 
 > 进了健身房不再迷茫
 
@@ -12,15 +12,12 @@
 
 毕竟这本书的本意就是帮助健身房的新手**快速入门**。
 
-**在华东理工大学奉贤校区大活健身房的同学请结合器械上的二维码（developing）使用**。
-
 有一个70分的答案以后就马上开始实践、反馈、进步、迭代，比等一个90分的答案出来再行动要好得多。  
 
 **目录**
 
 >* [preface(前言)](https://github.com/caoxuCarlos/A-Fitness-Guide-for-College-Students/blob/master/markdowns/preface.md)
->* [MAKE1(最少可执行知识)](https://github.com/caoxuCarlos/A-Fitness-Guide-for-College-Students/blob/master/markdowns/Part1-MAKE.md)
->* [MAKE2(最少可执行知识)](https://github.com/caoxuCarlos/A-Fitness-Guide-for-College-Students/blob/master/markdowns/Part1-MAKE(2).md)
+>* 
 >* 待续......
 
 欢迎感兴趣的朋友们通过 Pull Request 来帮本书校对。
