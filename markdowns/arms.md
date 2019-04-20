@@ -14,15 +14,15 @@
 
 ## 绳索二头弯举
 
-pass
+![](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/images/action/arms/Biceps-curl.gif?raw=true)
 
 身体不要晃, **大臂贴紧在身体两侧, 不要动**. (我知道这有些难以做到, 而且对新手来说, 真的是不小心就忘记了, 没关系,从小一点的重量开始吧)
 
-收缩的时候注意, 小臂和大臂不要太近
+收缩的时候注意, 小臂和大臂不要太近, 这个角度就可以了.
 
-pass
+![](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/images/action/arms/degree-of-biceps-curl.png?raw=true)
 
- 肱二头肌很特殊, 如果你收缩到最里面的时候, 你的肌肉已经没有发力了, 而我们要的是**全程的控制**.
+肱二头肌很特殊, 如果你收缩到最里面的时候, 你的肌肉已经没有发力了, 而我们要的是**全程的控制**.
 
 还记得我们的 "慢放, 快收缩,停顿" 吗? 不会不小心又忘了吧.
 
@@ -30,9 +30,9 @@ pass
 
 ## 绳索体前下拉
 
-pass
+![](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/images/action/arms/Rope-pull-down.gif?raw=true)
 
-站直, 大臂贴在身体两侧,**不能动***.
+站直, 大臂贴在身体两侧,**不能动**.
 
 抓住绳索的两头, 用肱三头肌的力量下压, 一直要拉到**绳索贴到小腹上**才可以.
 
