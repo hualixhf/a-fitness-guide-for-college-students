@@ -29,6 +29,8 @@
 >* [Part3.eat-2( "科学" 饮食)](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/markdowns/Part3.eat-2.md)
 >* [find-master(社交学习)](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/markdowns/find-master.md)
 
+本书内容还会继续更新。
+
 欢迎感兴趣的朋友们通过 Pull Request 来帮本书校对。
 
 不熟悉github的朋友可以通过邮箱（cx@caoxu.cc）与我联系。
