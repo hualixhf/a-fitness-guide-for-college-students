@@ -2,15 +2,11 @@
 
 大臂分肱二头肌和肱三头肌, 小臂嘛...... 目前你也是只要知道这是小臂就可以了.
 
-pass
+![](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/images/arm.jpg?raw=true)
 
 肱二头肌负责在**大臂不动**的情况下,让小臂靠近大臂.
 
-pass
-
 肱三头肌负责在**大臂不动** 的情况下, 让小臂远离大臂.
-
-pass
 
 小臂负责手腕和手指的屈伸.
 
