@@ -2,23 +2,28 @@
 
 > Start your workout without being  confused.
 
-# 大学生健身入门
+# 健身入口
 
 > 进了健身房不再迷茫
 
 **作者:曹旭**
 
-我本来打算把这本书完全写好之后再发布出来，但是转念一想：如果提前发布出来可以帮助更多的人取得更大的进步，让更多人更快的成长, 我为什么不这样做呢？
-
-毕竟这本书的本意就是帮助健身房的新手**快速入门**。
-
-有一个70分的答案以后就马上开始实践、反馈、进步、迭代，比等一个90分的答案出来再行动要好得多。  
-
 **目录**
 
 >* [preface(前言)](https://github.com/caoxuCarlos/A-Fitness-Guide-for-College-Students/blob/master/markdowns/preface.md)
->* 
->* 待续......
+>* [MAKE(最少必要知识)](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/markdowns/MAKE.md)
+>* [Part1.RM&times(最大重复数量与训练次数)](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/markdowns/Part1.RM%26times.md)
+>* [Part1.over-recovery(超量恢复)](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/markdowns/Part1.over-recovery.md)
+>* [Part1.basic-metabolism(基础代谢)](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/markdowns/Part1.basic-metabolism.md)
+>* [Part1.negative-feedback(身体负反馈)](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/markdowns/Part1.negative-feedback.md)
+>* [Part2.chest(胸)](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/markdowns/Part2.chest.md)
+>* [Part2.deltoid(肩)](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/markdowns/Part2.deltoid.md)
+>* [Part2.back(背)](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/markdowns/Part2.back.md)
+>* [Part2.legs&hip(臀腿)](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/markdowns/Part2.legs%26hip.md)
+>* [Part2.arms(手臂)](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/markdowns/Part2.arms.md)
+>* [Part3.eat(大学生健身饮食)](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/markdowns/Part3.eat.md)
+>* [Part3.eat-2( "科学" 饮食)](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/markdowns/Part3.eat-2.md)
+>* [find-master(社交学习)](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/markdowns/find-master.md)
 
 欢迎感兴趣的朋友们通过 Pull Request 来帮本书校对。
 
