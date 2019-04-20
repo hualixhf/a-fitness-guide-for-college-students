@@ -52,4 +52,7 @@ pass(这张图马上补上)
 
 背部与水平线45° ---- 练到上部
 
-**千万不要弓腰, 绷紧你的竖脊肌pass,腰是直的!**
+![](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/images/erector%20-spinae.jpg?raw=true)
+
+**千万不要弓腰, 绷紧你的竖脊肌,腰一定是直的!**
+
