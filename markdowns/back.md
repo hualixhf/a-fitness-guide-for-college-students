@@ -2,17 +2,17 @@
 
 背部肌肉有背阔肌、斜方肌、大圆机、小圆肌、冈下肌......
 
-pass
+![](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/images/back1.png?raw=true)
 
-刚入门的你, 根本没必要分清这些东西.
+实际上, 刚入门的你, 根本没必要分清这些东西.
 
-事实上, 在我刚开始健身的时候, 我就是找不到后背发力的感觉, 第二天后背疼, 我才知道我昨天确实用到了背部的肌肉. 
+我刚开始健身的时候, 我就是找不到后背发力的感觉, 第二天后背疼, 我才知道我昨天确实用到了背部的肌肉. 
 
 目前只要知道我们是在练背就好了, 至于更细节的东西, 问问 google, 它真的很强大, 如果不知道怎么使用 google, 你甚至可以直接问它: [how to use google the efficient way](https://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html)
 
 ## 引体向上
 
-pass
+![](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/images/action/back/%E5%BC%95%E4%BD%93%E5%90%91%E4%B8%8A.gif?raw=true)
 
 先默念口诀: 慢放, 快收缩, 停顿.
 
@@ -28,11 +28,11 @@ pass
 
 刚开始做不动可以做 "助力引体向上", 虽然可能健身房里没有这个器械, 我们还可以这样:
 
-pass
+pass(这张图马上补上)
 
 ## 坐姿颈后下拉
 
-pass
+![](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/raw/master/images/action/back/%E5%9D%90%E5%A7%BF%E9%A2%88%E5%90%8E%E4%B8%8B%E6%8B%89.gif)
 
 坐直, 大腿卡好, 双脚稳稳地踩到地上.
 
@@ -42,7 +42,7 @@ pass
 
 ## T型杆划船
 
-pass
+![](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/raw/master/images/action/back/T%E5%BD%A2%E6%9D%86%E5%88%92%E8%88%B9.gif)
 
 这个动作主要练到背部的厚度.
 
