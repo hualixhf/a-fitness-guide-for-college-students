@@ -1,8 +1,18 @@
 # 腿
 
-pass
-
 大腿分为股四头肌和股二头肌, 小腿嘛, 目前你只要知道是在练小腿[^1]就可以了.
+
+股四头肌:
+
+> ![](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/images/quadricep.png?raw=true)
+
+
+
+
+
+股二头肌:
+
+> ![](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/images/Biceps-femoris.png?raw=true)
 
 臀腿不分家, 对练臀更感兴趣的女生也不妨先学会怎么练腿, 这样你学练臀的时候就像是学会了 "过去时" 学 "现在完成时" 一样.
 
