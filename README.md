@@ -4,11 +4,11 @@
 
 # 健身入口
 
-> 终于能学会自己锻炼了
+> 终于能学会怎么自己锻炼了
 
 **作者:曹旭**
 
-
+特别感谢**许勤华**老师在此书写作过程中给予的巨大帮助。
 
 **目录**
 
@@ -30,7 +30,7 @@
 
 不熟悉github的朋友可以通过邮箱（cx@caoxu.cc）与我联系。
 
-想快速入门健身, 需要我手把手帮助的朋友请点击这里 .
+想快速入门健身, 需要我手把手帮助的朋友[请点击这里](https://runningpen.wixsite.com/mysite-1) .
 
 本书版权协议为[CC BY-NC 4.0 license](http://creativecommons.org/licenses/by-nc-nd/4.0/)。
 
