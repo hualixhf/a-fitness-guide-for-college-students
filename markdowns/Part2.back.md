@@ -4,9 +4,9 @@
 
 ![](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/images/back1.png?raw=true)
 
-实际上, 刚入门的你, 根本没必要分清这些东西.
+咳咳, 刚入门的时候, 根本没必要分清这些东西.
 
-我刚开始健身的时候, 我就是找不到后背发力的感觉, 第二天后背疼, 我才知道我昨天确实用到了背部的肌肉. 
+实际上, 我刚开始健身的时候, 我就是找不到后背发力的感觉, 第二天后背疼, 我才知道我昨天确实用到了背部的肌肉. 
 
 目前只要知道我们是在练背就好了, 至于更细节的东西, 问问 google, 它真的很强大, 如果不知道怎么使用 google, 你甚至可以直接问它: [how to use google the efficient way](https://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html)
 
@@ -22,7 +22,7 @@
 
 身体与地面垂直, 不用后仰, 不用前倾, 老老实实做就可以了.
 
-拉起来的时候, 下巴要过杠子, 然后**停顿1~2秒**.
+拉起来的时候, 下巴要高过杠子, 然后**停顿1~2秒**.
 
 放的时候要慢, **放到底** , 我的意思是**放到"底"**.
 
@@ -54,5 +54,5 @@ pass(这张图马上补上)
 
 ![](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/images/erector%20-spinae.jpg?raw=true)
 
-**千万不要弓腰, 绷紧你的竖脊肌,腰一定是直的!**
+**千万不要弓腰, 绷紧竖脊肌,腰部一定是直的!**
 
