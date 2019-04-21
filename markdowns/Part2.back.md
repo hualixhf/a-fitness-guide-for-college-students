@@ -28,7 +28,9 @@
 
 刚开始做不动可以做 "助力引体向上", 虽然可能健身房里没有这个器械, 我们还可以这样:
 
-pass(这张图马上补上)
+![](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/images/action/back/%E5%8A%A9%E5%8A%9B%E5%BC%95%E4%BD%93%E5%90%91%E4%B8%8A.gif?raw=true)
+
+注意脚下有绳索......
 
 ## 坐姿颈后下拉
 
