@@ -22,13 +22,15 @@
 
 锻炼股二头肌和股四头肌
 
-![](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/images/action/legs&hip/squat.gif?raw=true)
+不要把杠铃放到颈椎上,要放到上斜方肌上.
 
-不要把杠铃放到颈椎上, 放到斜方肌上.
+![](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/images/trapezius.jpg?raw=true)
 
 在出杠之前, 要保证杠铃的平衡
 
- 一定要保证**膝盖和大腿一个方向**, 尤其是在重量大的时候, **膝盖不要内扣**.
+![](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/images/action/legs&hip/squat.gif?raw=true)
+
+一定要保证**膝盖和大腿一个方向**, 尤其是在重量大的时候, **膝盖不要内扣**.
 
 蹲的时候蹲到底, 大腿和地面平行之后, 还要稍微再下一点.
 
@@ -58,5 +60,7 @@
 
 对了, 还记得我们之前过深蹲不同站姿对内侧和外侧各有偏重吗? 这个器械也可以用这个原理, 外八字练到大腿内侧, 内八字练到大腿外侧, 脚尖朝前练整体.
 
-[^1]: 小腿只有一个练法, 那就是 "各种提踵" 但开始我们还是先把注意力集中到大腿上吧.
+---
+
+[^1]: 小腿只有一个练法, 那就是 "各种提踵(脚后跟)" , 你自己到网上随便学一下就会了.
 
