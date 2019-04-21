@@ -2,7 +2,7 @@
 
 > Start your workout without being  confused.
 
-# 健身入口 1.0
+# 健身入口
 
 > 终于能学会自己锻炼了
 
