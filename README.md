@@ -30,7 +30,7 @@
 
 不熟悉github的朋友可以通过邮箱（cx@caoxu.cc）与我联系。
 
-想快速入门健身, 需要我手把手帮助的朋友[请点击这里](https://runningpen.wixsite.com/mysite-1) .
+想快速入门健身, 需要我手把手帮助的朋友[请点击这里](https://runningpen.wixsite.com/carlos) .
 
 本书版权协议为[CC BY-NC 4.0 license](http://creativecommons.org/licenses/by-nc-nd/4.0/)。
 
