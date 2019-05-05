@@ -22,6 +22,7 @@
 >* [Part2.back(背)](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/markdowns/Part2.back.md)
 >* [Part2.legs&hip(臀腿)](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/markdowns/Part2.legs%26hip.md)
 >* [Part2.arms(手臂)](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/markdowns/Part2.arms.md)
+>* [Part2.abs(腹肌)](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/markdowns/Part2.abs.md)
 >* [Part3.eat(大学生健身饮食)](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/markdowns/Part3.eat.md)
 >* [Part3.eat-2( "科学" 饮食)](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/markdowns/Part3.eat-2.md)
 >* [find-master(社交学习)](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/markdowns/find-master.md)
