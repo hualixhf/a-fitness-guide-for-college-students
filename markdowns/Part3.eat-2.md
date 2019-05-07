@@ -25,22 +25,13 @@
 (数据来自于 [fatsecret 中国](https://www.fatsecret.cn/%E7%83%AD%E9%87%8F%E8%90%A5%E5%85%BB/))
 
 设: 需要鸡胸肉 x g , 红薯 y g, 牛肉 z g.
-$$
-\begin{cases}
-4*(30\%x+1.6\%y+26\%z)=750 & \quad \text{蛋白质等式}\\
-4*20\%y=1500& \quad \text{碳水化合物等式}\\
-9*(8\%x+20\%z)=750 & \quad \text{脂肪等式}\\
 
-\end{cases}
-$$
+![](https://github.com/caoxuCarlos/caoxuCarlos.github.io/blob/master/images-for-notes/ql_d069ab48ebd80ea05c7d3bb965e9349b_l3.png?raw=true)
+
 解之得:
-$$
-\begin{cases}
-x=506.4\\
-y=1875\\
-z=214.1\\
-\end{cases}
-$$
+
+![](https://github.com/caoxuCarlos/caoxuCarlos.github.io/blob/master/images-for-notes/ql_6d41937dcf1ee3533ae540a416d51416_l3.png?raw=true)
+
 然后用把这么多食物分配按照合理的比例, 比如(2:3:1), 分配早午晚饭各自吃多少即可.
 
 **以上例子仅仅用来演示计算方法, 并不作为热量摄入的建议**.
